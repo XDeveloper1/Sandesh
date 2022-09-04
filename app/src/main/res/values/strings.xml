@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sandesh</string>
+    <array name="courses">
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>BTECH</item>
+        <item>MTECH</item>
+        <item>BSC CS</item>
+        <item>MSC CS</item>
+        <item>BSC IT</item>
+        <item>MSC IT</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
